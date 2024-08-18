@@ -1,0 +1,259 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Istok+Web:ital,wght@0,400;0,700;1,400;1,700&family=League+Spartan:wght@100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Istok+Web:ital,wght@0,400;0,700;1,400;1,700&family=Krona+One&family=League+Spartan:wght@100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Istok+Web:ital,wght@0,400;0,700;1,400;1,700&family=Krona+One&family=League+Gothic&family=League+Spartan:wght@100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Istok+Web:ital,wght@0,400;0,700;1,400;1,700&family=Krona+One&family=League+Gothic&family=League+Spartan:wght@100..900&family=Lora:ital,wght@0,400..700;1,400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Istok+Web:ital,wght@0,400;0,700;1,400;1,700&family=Krona+One&family=League+Gothic&family=League+Spartan:wght@100..900&family=Lora:ital,wght@0,400..700;1,400..700&family=Luxurious+Roman&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Young+Serif&display=swap');
+
+
+
+
+/* For Welcome to rentable and Renault text use "Istok Web" */
+/* Use "Krona One" for audi  */
+/* use "League Gothic" for pagani  */
+/* use "Lora" for Porshe  */
+/* use "Luxurious Roman" for footer  */
+
+
+
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --white:#fff;
+    --cars-bg:#DCCFCF;
+    --nav-container:#F4E4E4;
+}
+html{
+    width: 100vw;
+    overflow-x: hidden;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+main{
+    background-color: var(--cars-bg);
+    height: 844px;
+    width: 100%;
+    height: 100%;
+}
+.container-nav{
+    background-color: var(--white);
+}
+.rentable{
+    display: flex;
+    justify-content: center;
+}
+.rentable img{
+    width: 105px;
+    height: 89px;
+}
+.nav-cars{
+    width: 100%;
+    padding: 0 15px 0 15px;
+}
+.nav-cars{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--nav-container);
+}
+.nav-cars img{
+    width: 50px;
+    height: 50px;
+}
+.nav-cars a img{
+    transform: scale(0);
+    animation-name: Pop-up;
+    animation-timing-function: ease-out;
+    animation-duration: 1s;
+    animation-delay: 0.3s;
+    animation-fill-mode: forwards;
+}
+.nav-cars a:nth-of-type(1) img{
+    width: 50px;
+    height: 41px;
+}
+.nav-cars a:nth-of-type(2) img{
+    width: 65px;
+    height: 45px;
+    animation-delay: 0.8s;
+}
+.nav-cars a:nth-of-type(3) img{
+    width: 75px;
+    height: 70px;
+    animation-delay: 1.3s;
+}
+.nav-cars a:nth-of-type(4) img{
+    width: 38px;
+    height: 50px;
+    animation-delay: 1.8s;
+}
+article{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    transform: translateX(-0.42rem);
+
+}
+.hero{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 53px;
+    position: relative;
+    animation: fade-in;
+    animation-timing-function: ease-in;
+    animation-duration: 1.5s;
+    animation-delay: -0.3s;
+    font-family: "Istok Web";
+}
+.hero::after{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 2px; 
+    width: 108%; 
+    transform: translateX(-5px);
+    background-color: #9D9B9B; 
+    transform-origin: left; 
+    animation-name: appear;
+    animation-timing-function: ease-in-out;
+    animation-duration: 1s;
+    animation-delay: 0.3s;
+}
+@keyframes appear {
+    from{
+        width: 0%;
+    }
+    to{
+        width: 108%;
+    }
+}
+@keyframes fade-in{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+@keyframes Pop-up{
+    0%{
+        transform: scale(0);
+    }
+    60%{
+        transform: scale(1.4);
+    }
+    80%{
+        transform: translate(1.2);
+    }
+    100%{
+        transform:scale(1);
+    }
+}
+.sponsors{
+    display: flex;
+    width: 100%;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 66px;
+    justify-content: center;
+    margin-left: 1rem;
+    
+}
+.sponsors img{
+    width: 171px;
+    height: 114px;
+    border-radius: 24px;
+}
+.brand{
+    width: 50px;
+    height: 45px;
+}
+.section-renault{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    font-family: "Istok Web";
+    width: 100%;
+    align-items: center;
+    margin-left: 1rem;
+}
+.section-renault p{
+    display: flex;
+    align-items: center;
+   font-weight: 800;
+   letter-spacing: 0.1rem;
+   margin-bottom: 35px;
+}
+.section-renault div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    gap: 1rem;
+}
+.renault-image-gallery img{
+    width: 363px;
+    height: 181px;
+    border-radius: 25px;
+    object-fit: cover;
+    
+}
+
+
+/* AUDI SECTION  */
+
+
+
+.section-audi{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    font-family: "Krona One";
+    width: 100%;
+    align-items: center;
+    margin-left: 1rem;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+.section-audi p{
+    display: flex;
+    align-items: center;
+   font-weight: 800;
+   letter-spacing: 0.1rem;
+   margin-bottom: 25px;
+   gap: 0.7rem;
+   font-size: 40px;
+}
+.section-audi p img{
+    width: 80px;
+    height: 70px;
+}
+.section-audi div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    gap: 1rem;
+}
+.audi-image-gallery img{
+    width: 363px;
+    height: 181px;
+    border-radius: 25px;
+    object-fit: cover;
+    
+}
